@@ -24,7 +24,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/image-component-analyzer.git
+    git clone https://github.com/MohamedGamal29/Stream-lit-analyzing-image-application
     cd image-component-analyzer
     ```
 
